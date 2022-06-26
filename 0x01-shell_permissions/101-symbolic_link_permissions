@@ -1,0 +1,2 @@
+#!/bin/bash
+lchown vincent:stafff _hello
